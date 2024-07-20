@@ -1,3 +1,7 @@
+# Write By : A.S
+
+#This Code Is Used To Mine BitCoin ( Just a prank )
+
 from hashlib import sha256
 import time
 import random
